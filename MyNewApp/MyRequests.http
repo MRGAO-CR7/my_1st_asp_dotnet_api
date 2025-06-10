@@ -1,0 +1,21 @@
+GET http://localhost:5185/todos
+
+###
+GET http://localhost:5185/todos/1
+
+###
+POST http://localhost:5185/todos
+Content-Type: application/json
+
+{
+    "id": 1,
+    "name": "Tson",
+    "dueDate": "2025-11-01T00:00:00",
+    "isCompleted": false
+}
+
+###
+DELETE http://localhost:5185/todos/1
+
+###
+GET http://localhost:5185/tasks/1
