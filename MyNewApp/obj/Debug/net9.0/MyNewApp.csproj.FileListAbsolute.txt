@@ -21,3 +21,4 @@
 /Users/ericgao/Projects/dotnet/MyNewApp/MyNewApp/obj/Debug/net9.0/MyNewApp.pdb
 /Users/ericgao/Projects/dotnet/MyNewApp/MyNewApp/obj/Debug/net9.0/MyNewApp.genruntimeconfig.cache
 /Users/ericgao/Projects/dotnet/MyNewApp/MyNewApp/obj/Debug/net9.0/ref/MyNewApp.dll
+/Users/ericgao/Projects/dotnet/MyNewApp/MyNewApp/obj/Debug/net9.0/MyNewApp.sourcelink.json
